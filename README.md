@@ -31,5 +31,7 @@ Lastly, it will be important find ways to increase use on the weekends. This wil
 
 As for how else we could use this data, it could help to look customer vs. subscriber based on age. This would give the city an idea of which demographics they'll need to put extra resources into to get the whole population on board. It may also help to look at the less popular start and ending locations as these routes could them be examined to see if there are any barriers to using bikes in these areas. If so, hopefully the city could provide a solution for the areas through construction or other means.
 
+If you would like to look at these visualizations in further detail, I have provided a link to the Tableau Dashboard below.
 
+[link to dashboard](https://public.tableau.com/app/profile/scott8173)
 
